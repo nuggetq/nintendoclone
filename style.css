@@ -1,0 +1,44 @@
+*{
+    font-family:monospace;
+    font-size: large;
+}
+
+#menu{
+    background-color:red;
+    width: 100vw;
+    height: 80px;
+    color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+#logo{
+    height:80px;
+    width:fit-content;
+}
+#main{
+    background-color: rgb(205, 241, 252);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction:row ;
+    align-items:center;
+}
+#submain{
+    background-color: rgb(205, 241, 252);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction:row ;
+    align-items:center;
+
+}
+#infor{
+    background-color: red;
+    width: 100vw;
+    height:50vh;
+    font-size: small;
+}
